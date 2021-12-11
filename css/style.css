@@ -12,8 +12,34 @@ textarea {
 h1 {
     padding: 10px 20px;
 }
+
+h3 {
+    padding: 10px;
+    margin-left: 43%;
+}
 p {
     margin: 10px 20px;
+}
+
+table {
+    border: 1px solid #eee;
+    padding:  10px ;
+    margin: 10px ;
+   
+    margin-left: 40%;
+}
+
+td {
+    border: 1px solid #eee;
+    padding:  10px 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-width: 200px;
+    text-align: center;
+    align-items: center;
+    
 }
 
 form {
